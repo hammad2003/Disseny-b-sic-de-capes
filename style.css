@@ -1,6 +1,30 @@
 
 body {
 
-background-color: green;
+background-color: #457879;
+
+}
+
+.exteriror {
+  border: thin solid black;
+  background-color: #ffffff;
+  padding: 2em;
+  margin-right: 2em;
+  margin-left:2em;
+  padding-bottom: 2em;
+  background-size: cover;
+  font-size: 2em;
+
+}
+
+
+.interior {
+  border: thin solid black;
+  background-color: #eceadc;
+  padding: 1em;
+
+  background-size: cover;
+  font-size: 2em;
+  border-radius: 10px
 
 }
