@@ -8,6 +8,7 @@ background-color: #457879;
 .exteriror {
   border: thin solid black;
   background-color: #ffffff;
+  margin: -1em;
   padding: 2em;
   margin-right: 2em;
   margin-left:2em;
@@ -19,13 +20,12 @@ background-color: #457879;
 
 .interior {
   background-color: #eceadc;
-  padding: 2em;
+  padding: 1.5em;
   font-size: 2em;
   border-radius: 10px
 
 }
 
 .caja2 {
-
 
 }
