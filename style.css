@@ -12,19 +12,20 @@ background-color: #457879;
   margin-right: 2em;
   margin-left:2em;
   padding-bottom: 2em;
-  background-size: cover;
   font-size: 2em;
 
 }
 
 
 .interior {
-  border: thin solid black;
   background-color: #eceadc;
-  padding: 1em;
-
-  background-size: cover;
+  padding: 2em;
   font-size: 2em;
   border-radius: 10px
+
+}
+
+.caja2 {
+
 
 }
